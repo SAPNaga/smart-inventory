@@ -1,0 +1,11 @@
+{
+  "name": "smart-inventory-mcp",
+  "version": "1.0.0",
+  "description": "MCP server exposing smart-inventory tools",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "axios": "^1.7.0"
+  }
+}
